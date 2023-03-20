@@ -1,0 +1,22 @@
+{
+  "name": "weatherappexpress",
+  "version": "1.0.0",
+  "description": "make app using express and api",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yashparmarr"
+  },
+  "author": "yash",
+  "license": "ISC"
+}
